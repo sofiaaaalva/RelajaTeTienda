@@ -23,6 +23,7 @@ $(document).ready(function () {
     $('#smartcart').smartCart({
 
         cartItemTemplate: '<div class="d-flex">'+
+
             '<h3 class="list-group-item-heading">{product_name}</h3>' +
         '</div>',
 
